@@ -27,5 +27,5 @@ b) A function that calculates a vector with the corresponding frequency values t
 
 ## Notes
 
-The problem given is related to CNN work. But algorithms like RFC, SVM... can also be used but of course, expecting a lower accuracy. 
+The problem given is related to CNN work. Algorithms like RFC, SVM... can also be used but of course, expecting a lower accuracy. 
 
